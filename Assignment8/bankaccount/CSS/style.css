@@ -1,0 +1,16 @@
+body {
+    font-family: helvetica, sans-serif;
+    margin: 5 auto;    
+}
+h1 {
+    text-transform: uppercase;
+}
+button {
+    color: white;
+    background-color: navy;
+}
+div {
+    border: solid 2px darkblue;
+    padding: 5px;
+    margin: 5px;
+}
